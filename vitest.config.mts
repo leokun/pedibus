@@ -6,6 +6,6 @@ export default defineConfig({
   test: {
     environment: 'jsdom',
     // we want code test only in tests/unit folder
-    include: ['tests/unit/**\/*.{test,spec}.?(c|m)[jt]s?(x)'],
+    include: ['src/tests/unit/**\/*.{test,spec}.?(c|m)[jt]s?(x)'],
   },
 })

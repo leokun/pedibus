@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "api",
+    "collectionId": "40db346d-25fe-413f-be83-59886a19c238",
+    "dateExported": "2024-05-02T09:53:48.523Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "3d285eb4-e8b3-4255-a404-e847ef2e899e",
+            "colId": "40db346d-25fe-413f-be83-59886a19c238",
+            "containerId": "",
+            "name": "http://localhost:3000/api/helloworld",
+            "url": "http://localhost:3000/api/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-02T09:39:17.830Z",
+            "modified": "2024-05-02T09:39:17.830Z",
+            "headers": []
+        }
+    ],
+    "ref": "CvBfM2NT_EkmgaJfHW-jzhTlfoMqDGnUlFzN6XspleDn9RoRSgMkw5-PNbWXFbs4oqMSJtRfqj7y40H5u93lCw"
+}
